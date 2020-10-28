@@ -9,7 +9,7 @@
     "@prisma/engines-version": "2.11.0-3-6fafbb461b7e0c140280a7794ed19a4f7035f577",
     "@types/fs-extra": "9.0.2",
     "@types/jest": "26.0.15",
-    "@types/node": "12.19.2",
+    "@types/node": "12.19.3",
     "@types/node-fetch": "2.5.7",
     "@types/progress": "2.0.3",
     "@typescript-eslint/eslint-plugin": "4.6.0",
